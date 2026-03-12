@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+google-cloud-bigquery
+aisdb
+syda
+polars
+deltalake
+langchain-openai
+langgraph
+pandera[polars]
